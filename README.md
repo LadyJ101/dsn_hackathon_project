@@ -62,12 +62,17 @@ The dataset consists of two main files:
   
       Distribution of Numerical Features:
 
+      https://github.com/LadyJ101/dsn_hackathon_project/blob/main/download%20(8).png?raw=true
+
       Model Year: Most cars are from 2010 onwards.
     
       Mileage: Right-skewed distribution, indicating most cars have lower mileage.
   
       Price: Highly right-skewed, with most cars priced below $100,000.
 
+      https://github.com/LadyJ101/dsn_hackathon_project/blob/main/download%20(11).png?raw=true
+
+      https://github.com/LadyJ101/dsn_hackathon_project/blob/main/download%20(10).png?raw=true
 
       This image above shows how features like accident and fuel type affect the price of the vehicle
 
@@ -174,7 +179,8 @@ print("=" * 40)
     eval_metric='rmse'
   
 ## Feature Importance:
-https://via.placeholder.com/600x400?text=Feature+Importance+Plot
+
+https://github.com/LadyJ101/dsn_hackathon_project/blob/main/Feature%20Importance.png?raw=true
 
 ### Top features: model_year, milage, horsepower, and brand.
 
